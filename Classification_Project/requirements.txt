@@ -1,0 +1,16 @@
+mysql
+ mysql-connector-python 
+ pymysql
+pandas
+scikit-learn
+joblib
+openpyxl
+seaborn
+pandas
+sklearn-learn
+numpy
+matplotlib
+streamlit
+flask
+
+

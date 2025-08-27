@@ -1,0 +1,37 @@
+Here you are assigned as a Data Analyst and Data Scientist to design an analytics framework to see how the credit card users are defaulting. Here are your tasks regarding this dataset.
+
+List of tasks:
+
+Download data, MySQL & install as localhost on local m/c.
+
+Upload data on MySQL (create/insert/update)
+
+Use Python (SQLAlchemy lib) and connect to localhost. Load the data as dataframe and you will use this dataframe for further processing.
+
+You are expected to do EDA/Exploratory data analysis in Python:
+
+Outlier analysis, 5 point summary, Basic stats & dataframe info, shape etc.
+
+Plots include: Box-plot, pair plot, bar, scatter use Matplotlib & Seaborn. Get one-line summary from each plot.
+
+Data cleaning if needed
+
+Other EDA tasks as usual to understand more about the data
+
+You have to summarize your findings from EDA & propose a further direction
+
+Based on Above analysis; you have to create a solution. It will include one or more of the following. At this stage you will talk & discuss with your mentor to decide on the next part of action
+
+ML model and accuracy improvement.
+
+Based on what you decide before, you need to go ahead & implement 1/2 of the aspects before. Focus on content rather than aesthetics at the moment
+
+For ML model: Why did you create this? How it is to be used? How will it be updated? Optimisation of model, feature selection, accuracy precision & recall to be covered, data imbalances etc. Deliverables: ML model, methodology, variable & model selection process
+
+Case study: Usually happens one time, but you are looking at a scenario where you want to study in detail and propose further strategies to the management and delivery is a report for management
+
+Data dumps: Sample report dumps to be used daily. ex. daily defaulter reports
+
+Finally, you will be presenting to a small panel of judges on what you have done for this project and what more you could have done. Depending on the feedback from the panel, you need to provide possible revisions to your project if needed.
+
+Final Step: U need to prepare the production ready python code and You need to prepare a github repository and push all ur code changes to ur git hub repository
